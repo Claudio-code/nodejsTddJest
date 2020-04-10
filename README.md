@@ -6,4 +6,6 @@
 </p>  
 
 ## Começando
-  Aprendendo desing patterns com o java, cada pattern está separado em uma branch.
+  
+  Mostrando como usar a essa lib de tdd do nodejs, 
+  
